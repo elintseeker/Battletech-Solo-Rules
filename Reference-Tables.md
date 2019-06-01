@@ -80,3 +80,31 @@ Jump (+3) | 7 | 9 | 11
 --- | --------- | ---------- | ----------
 1 - 3 | LL | RL | RL
 4 - 6 | LL | LL | RL
+
+
+## Piloting Skill Roll Table
+Situation | Modifier
+--------- | --------
+'Mech takes 20+ damage (one phase) | +1
+'Mech reactor shuts down | +3
+Leg/foot actuator destroyed | +1 
+Hip actuator destrooyed | +2
+Gyro hit | +3
+Gyro destroyed | Fall
+Leg destroyed | Fall
+'Mech was charged/DFA (success) | +2
+'Mech charging attack (success) | +2
+'Mech DFA | +4
+'Mech standing up | 2 MP/attempt
+
+
+## Fall Facing Table
+
+1d6 | New Facing | Hit Location
+--- | ---------- | ------------
+1 | Same Direction | Front
+2 | 1 Hexside Right | Right
+3 | 2 Hexsides Right | Right
+4 | Opposite Direction | Rear
+5 | 2 Hexsides Left | Left
+6 | 1 Hexside Left | Left
