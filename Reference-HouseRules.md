@@ -1,5 +1,13 @@
 # House Rules / Reference
 
+## Rounding
+
+All rolls/values rounded up
+
+## Floating Criticals 
+
+On a roll of 2 on Hit Location Table, roll again and apply critical hit on rolled location.
+
 ## Forced Withdrawal*
 
 Under **Forced Withdrawal** rules, **crippled** 'Mechs must retreat towards it's home map edge.

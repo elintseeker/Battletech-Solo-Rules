@@ -62,3 +62,21 @@ Jump (+3) | 7 | 9 | 11
 10 | RA   | LA | LA
 11 | RL   | LA | LL
 12 | Head | Head | Head
+
+## Punch Location Table
+
+1d6 | Left Side | Front/Rear | Right Side
+--- | --------- | ---------- | ----------
+1 | LT | LA | RT
+2 | LT | LT | RT
+3 | CT | CT | CT
+4 | LA | RT | RA
+5 | LA | RA | RA
+6 | HD | HD | HD
+
+## Kick Location Table
+
+1d6 | Left Side | Front/Rear | Right Side
+--- | --------- | ---------- | ----------
+1 - 3 | LL | RL | RL
+4 - 6 | LL | LL | RL
