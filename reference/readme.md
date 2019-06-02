@@ -10,13 +10,13 @@ Hexes Moved | Modifier | Jumped
 7 - 9 | +3 | +4
 10+ | +4 | +5
 
+
 ## Weapon Range Modifiers
 
 Range | Short | Medium | Long 
 ----- | ----- | ------ | ----
 Modifier | +0 | +2 | +4
 
---- 
 
 ## To Hit Table - Gunnery Skill 2 
 
@@ -27,6 +27,7 @@ Walk (+1) | 3 | 5 | 7
 Run (+2)  | 4 | 6 | 8
 Jump (+3) | 5 | 7 | 9
 
+
 ## To Hit Table - Gunnery Skill 3 
 
 Move | Short | Med | Long
@@ -35,6 +36,7 @@ Stand (0) | 3 | 5 | 7
 Walk (+1) | 4 | 6 | 8
 Run (+2)  | 5 | 7 | 9
 Jump (+3) | 6 | 8 | 10
+
 
 ## To Hit Table - Gunnery Skill 4
 
@@ -45,7 +47,6 @@ Walk (+1) | 5 | 7 | 9
 Run (+2)  | 6 | 8 | 10
 Jump (+3) | 7 | 9 | 11
 
----
 
 ## Hit Location Table
 
@@ -63,6 +64,7 @@ Jump (+3) | 7 | 9 | 11
 11 | RL   | LA | LL
 12 | Head | Head | Head
 
+
 ## Punch Location Table
 
 1d6 | Left Side | Front/Rear | Right Side
@@ -73,6 +75,7 @@ Jump (+3) | 7 | 9 | 11
 4 | LA | RT | RA
 5 | LA | RA | RA
 6 | HD | HD | HD
+
 
 ## Kick Location Table
 

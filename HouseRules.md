@@ -16,21 +16,19 @@ it's home map edge.
 - Four damage to Mechwarrior/pilot
 - Destroyed all sensor critical slots
 - A gyro and an engine critical hit (or two engine critical hits)
-- Loss of all weapons (or 'Mech cannot cause more than 5 damage or fire at range of 5 hexes)
+- Loss of all weapons (or 'Mech cannot cause more than 5 damage)
 
 ## Auto-Ejection
 
 A Mechwarrior will automatically eject when an ammo explosion occurs on its 
-torso and takes 2 pts of damage. 
+torso and takes 2 pts of damage due to feedback. 
 
----
 
 ## Movement Marker/Dice
 
 Use two distinct color d6's for movement mod and hexes moved. First d6 is the 
 movement mode (walked, ran, jumped) and second d6 for number of hexes moved.
 
----
 
 ## Group Firing and Location Hits*
 
@@ -51,7 +49,6 @@ Instead of using the Cluster hit table, use the following steps:
 
 *See [Cluster Rolls - DFAWargaming](http://dfawargaming.com/home/dfa-optional-and-house-rules) for explanation and statistics.*
 
---- 
 
 ## Weapon Range Modifiers*
 
@@ -61,7 +58,6 @@ Range | Short | Medium | Long
 ----- | ----- | ------ | ----
 Modifier | +0 | +1 | +2
 
----
 
 ## Modified To Hit Tables
 

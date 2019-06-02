@@ -49,7 +49,6 @@ the actual Lance/Star unit composition.
 4 - 5 | 3 Heavy, 1 Assault | 4 Heavy, 1 Assault | 3 Heavy, 3 Assault 
 6 | 1 Heavy, 3 Assault | 2 Heavy, 3 Assault | 2 Heavy, 4 Assault
 
----
 
 ## OpFor Mechwarrior Skill Table (Optional)
 
