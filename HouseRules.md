@@ -10,7 +10,8 @@ On a roll of 2 on Hit Location Table, roll again and apply critical hit on rolle
 
 ## Forced Withdrawal*
 
-Under **Forced Withdrawal** rules, **crippled** 'Mechs must retreat towards it's home map edge.
+Under **Forced Withdrawal** rules, **crippled** 'Mechs must retreat towards 
+it's home map edge.
 
 - Four damage to Mechwarrior/pilot
 - Destroyed all sensor critical slots
@@ -19,13 +20,23 @@ Under **Forced Withdrawal** rules, **crippled** 'Mechs must retreat towards it's
 
 ## Auto-Ejection
 
-A Mechwarrior will automatically eject when an ammo explosion occurs on its torso and takes 2 pts of damage. 
+A Mechwarrior will automatically eject when an ammo explosion occurs on its 
+torso and takes 2 pts of damage. 
+
+---
+
+## Movement Marker/Dice
+
+Use two distinct color d6's for movement mod and hexes moved. First d6 is the 
+movement mode (walked, ran, jumped) and second d6 for number of hexes moved.
 
 ---
 
 ## Group Firing and Location Hits*
 
-Use a distinct 1d6 as a "pilot" die and additional 1d6 (of different size/color) for each weapon. Compare the "pilot" die to each weapon die for hits/misses. Do the same for location hits.
+Use a distinct 1d6 as a "pilot" die and additional 1d6 (of different size/color) 
+for each weapon. Compare the "pilot" die to each weapon die for hits/misses. Do 
+the same for location hits.
 
 *See [Group Fire - DFAWargaming](http://dfawargaming.com/home/dfa-optional-and-house-rules) for explanation and statistics.*
 
@@ -34,10 +45,9 @@ Use a distinct 1d6 as a "pilot" die and additional 1d6 (of different size/color)
 
 Instead of using the Cluster hit table, use the following steps: 
 
-- Determine the number of clusters the weapon produces. 
-- Roll a die for each cluster
+- Roll a die for each cluster (LRMs: 5pt cluster per d6, SRMs: 1 missile per d6)
 - A roll of 3+ results as a cluster hit.
-- Deal minimum 2 pts of damage if a weapon/launcher misses.
+- If LRM cluster (or SRM launcher not missile) misses, deal 2pts of damage minimum.
 
 *See [Cluster Rolls - DFAWargaming](http://dfawargaming.com/home/dfa-optional-and-house-rules) for explanation and statistics.*
 
