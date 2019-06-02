@@ -19,17 +19,11 @@ Roll a 1d6 for each enemy 'Mech/Unit moving this round.
 
 1d6 | Result
 --- | ------ 
-1 - 2 | Target with the easiest Target Modifier
-3 - 5 | Nearest unit or last targeted unit of the previous round
-6 | Roll on the Range table, target a 'Mech/Unit at range bracket.
+1 - 2 | Target a unit with the lowest Target Modifier
+3 - 5 | Targeted unit of the previous turn/nearest available unit
+6 | Target unit last moved this round or last turn
 
-*If multiple valid targets are present, randomly select a target by rolling a die.*
-
-**Range Table**
-
-Range | Short | Medium | Long
------ | ----- | ------ | ----
-1d6 | 1 - 2 | 3 - 4 | 5 - 6
+*If multiple valid targets are available, randomly select a target by rolling a die.*
 
 ## Enemy Mech Movement
 
