@@ -32,40 +32,45 @@ Range | Short | Medium | Long
 
 ## Enemy Mech Movement
 
-Unit's movement to attack/engage a selected target from the table above.
+Unit's movement to attack/engage a selected target from the table above or use 
+the *Extended Table* below this section.
 
 1d6 | Result
 --- | ------
 1 | **Do nothing** (Torso Twist if applicable)
 2 - 4 | **Walk** (Jump if possible for traversing terrain)
-5 - 6 | **Run/Charge** (Roll a 1d6 at the table below)
+5 - 6 | **Run/Charge** (Run at maximum speed/Charge if possible)
+
+
+## Enemy Mech Movement (Extended table)
+
+Roll a 1d6 for the passive/aggresive behavior and roll a 1d6 again for movement action.
+
+ 1d6| 1d6 | Result
+--- | --- | ------
+&nbsp; | 1 | Do nothing...
+&nbsp; | 2 | Move away and find cover from nearest hostile/target
+1 - 3 | 3 | Move away and find cover from nearest hostile/target (Run)
+&nbsp; | 4 | Maintain distance from target
+&nbsp; | 5 | Maintain distance from target (Run)
+&nbsp; | 6 | Run/Charge towards target 
+&nbsp; | 1 | Move towards target.
+&nbsp; | 2 | Move towards target (Run)
+4 - 6 | 3 | Run/Charge towards target
+&nbsp; | 4 | Run/Charge towards target
+&nbsp; | 5 | Move and flank towards target
+&nbsp; | 6 | Move and flank towards target (Run)
+
+
+## Enemy Mech Firing Behavior
 
 1d6 | Result
 --- | ------
-1 - 4 | **Run**
-5 - 6 | **Charge**
-
-<!-- ## Expanded Movement Behavior*
-
-2d6 | Result
---- | ------
-2 - 3 | Do nothing...
-4 - 5 | Run away and find nearest light/heavy cover
-6 - 8 | Walk towards target with light cover
-9 - 11 | Walk towards target
-12 | Run/Charge towards target 
-
--->
-
-## Enemy Mechwarrior Firing Behavior
-
-1d6 | Result
---- | ------
-1 | **Conservative** - Attack with weapons upto its sinkable heat
-2 - 4 | **Irked** - Attack with weapons upto 5 Heat
-5 | **Provoked** - Attack with weapons upto 10 Heat
+1 | **Conservative** - Attack with weapons upto 5 heat
+2 - 3 | **Irked** - Attack with weapons upto 8 Heat
+4 - 5 | **Provoked** - Attack with weapons upto 15 Heat
 6 | **Malvina Hazen'ed** - Alpha Strike (Fire all weapons with a valid range)
   
 --- 
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+<small><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.</small>
