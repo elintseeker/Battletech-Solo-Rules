@@ -3,7 +3,8 @@ Simple Solo rules and tables for tabletop Battletech.
 
 ## Setup
 
-- Scenarios always use **Forced Withdrawal** rules (See Total Warfare/Battletech Manual) <sup>[Ref.](./Reference-HouseRules.md)</sup>
+- Scenario ends at 20 turns
+- Scenarios always uses the **Forced Withdrawal** rules (See Total Warfare/Battletech Manual) <sup>[Ref.](./Reference-HouseRules.md)</sup>
 - **Auto-Ejection** rules are on for all enemy units.
 - Variable Damage Rules (if playing Alpha Strike)
 
@@ -45,13 +46,13 @@ Roll a 1d6 for the passive/aggresive behavior and roll a 1d6 again for movement 
 --- | --- | ------
 &nbsp; | 1 | Do nothing...
 &nbsp; | 2 | Move away and find cover from nearest hostile/target
-1 - 3 | 3 | Move away and find cover from nearest hostile/target (Run)
+**1 - 3** | 3 | Move away and find cover from nearest hostile/target (Run)
 &nbsp; | 4 | Maintain distance from target
 &nbsp; | 5 | Maintain distance from target (Run)
 &nbsp; | 6 | Run/Charge towards target 
 &nbsp; | 1 | Move towards target.
 &nbsp; | 2 | Move towards target (Run)
-4 - 6 | 3 | Run/Charge towards target
+**4 - 6** | 3 | Run/Charge towards target
 &nbsp; | 4 | Run/Charge towards target
 &nbsp; | 5 | Move and flank towards target
 &nbsp; | 6 | Move and flank towards target (Run)
