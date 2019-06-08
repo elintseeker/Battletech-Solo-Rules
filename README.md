@@ -5,6 +5,7 @@ Simple Solo rules and tables for tabletop Battletech.
 
 - Scenarios always use **Forced Withdrawal** rules (See Total Warfare/Battletech Manual) <sup>[Ref.](./Reference-HouseRules.md)</sup>
 - **Auto-Ejection** rules are on for all enemy units.
+- Variable Damage Rules (if playing Alpha Strike)
 
 ### Enemy Composition
 [See OpFor Generation Tables](./EnemyLanceGeneration.md)
