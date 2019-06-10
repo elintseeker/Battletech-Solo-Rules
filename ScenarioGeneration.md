@@ -12,7 +12,7 @@ Pick a scenario for this battle, roll a 1d6 and consult the table below:
 
 ## Pitched Battle
 
-**Objective**
+**Objective**  
 This is it, they're here! Let's get them boys!
 
 **Victory Conditions**  
@@ -47,7 +47,7 @@ The scenario ends when a unit carries the Data Cache to their starting map edge 
 
 ## Escort
 
-**Objective**
+**Objective**  
 A unit is transporting some valuable assets to the front-lines. Stop them!
 
 **Special Rules**  
@@ -73,4 +73,4 @@ The scenario ends when all defending units have been destroyed or all attacking 
 
 ---
 
-Checkout [iamfanboy's list](https://bg.battletech.com/forums/index.php?topic=7470.0)
+Checkout [iamfanboy's list](https://bg.battletech.com/forums/index.php?topic=7470.0) for more scenarios for games.
