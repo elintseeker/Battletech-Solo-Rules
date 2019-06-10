@@ -3,7 +3,7 @@
 ## Target to Hit Modifiers
 
 Hexes Moved | Modifier | Jumped
------------ | -------- | ------
+----------- | :------: | :----:
 0 - 2 | 0 | +1
 3 - 4 | +1 | +2 
 5 - 6 | +2 | +3
@@ -14,14 +14,14 @@ Hexes Moved | Modifier | Jumped
 ## Weapon Range Modifiers
 
 Range | Short | Medium | Long 
------ | ----- | ------ | ----
+----- | :---: | :----: | :--:
 Modifier | +0 | +2 | +4
 
 
 ## To Hit Table - Gunnery Skill 2 
 
-Move | Short | Med | Long
----- | ----- | --- | ---- 
+Move | Short | Medium | Long 
+---- | :---: | :----: | :--:
 Stand (0) | 2 | 4 | 6
 Walk (+1) | 3 | 5 | 7
 Run (+2)  | 4 | 6 | 8
@@ -30,8 +30,8 @@ Jump (+3) | 5 | 7 | 9
 
 ## To Hit Table - Gunnery Skill 3 
 
-Move | Short | Med | Long
----- | ----- | --- | ---- 
+Move | Short | Medium | Long 
+---- | :---: | :----: | :--:
 Stand (0) | 3 | 5 | 7
 Walk (+1) | 4 | 6 | 8
 Run (+2)  | 5 | 7 | 9
@@ -40,8 +40,8 @@ Jump (+3) | 6 | 8 | 10
 
 ## To Hit Table - Gunnery Skill 4
 
-Move | Short | Med | Long
----- | ----- | --- | ---- 
+Move | Short | Medium | Long 
+---- | :---: | :----: | :--:
 Stand (0) | 4 | 6 | 8
 Walk (+1) | 5 | 7 | 9
 Run (+2)  | 6 | 8 | 10
@@ -51,7 +51,7 @@ Jump (+3) | 7 | 9 | 11
 ## Hit Location Table
 
 2d6 | Left Side | Front/Rear | Right Side
---- | --------- | ---------- | ----------
+:-: | :-------: | :--------: | :--------:
 2  | LT (crit) | CT (crit) | RT (crit) 
 3  | LL   | RA | RL
 4  | LA   | RA | RA
@@ -68,7 +68,7 @@ Jump (+3) | 7 | 9 | 11
 ## Punch Location Table
 
 1d6 | Left Side | Front/Rear | Right Side
---- | --------- | ---------- | ----------
+:-: | :-------: | :--------: | :--------:
 1 | LT | LA | RT
 2 | LT | LT | RT
 3 | CT | CT | CT
@@ -80,14 +80,14 @@ Jump (+3) | 7 | 9 | 11
 ## Kick Location Table
 
 1d6 | Left Side | Front/Rear | Right Side
---- | --------- | ---------- | ----------
+:-: | :-------: | :--------: | :--------:
 1 - 3 | LL | RL | RL
 4 - 6 | LL | LL | RL
 
 
 ## Piloting Skill Roll Table
 Situation | Modifier
---------- | --------
+--------- | :------:
 'Mech takes 20+ damage (one phase) | +1
 'Mech reactor shuts down | +3
 Leg/foot actuator destroyed | +1 
@@ -104,7 +104,7 @@ Leg destroyed | Fall
 ## Fall Facing Table
 
 1d6 | New Facing | Hit Location
---- | ---------- | ------------
+:-: | ---------- | :----------:
 1 | Same Direction | Front
 2 | 1 Hexside Right | Right
 3 | 2 Hexsides Right | Right

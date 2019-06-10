@@ -27,16 +27,14 @@ torso and takes 2 pts of damage due to feedback.
 ## Movement Marker/Dice
 
 Use two distinct color d6's for movement mod and hexes moved. First d6 is the 
-movement mode (walked, ran, jumped) and second d6 for number of hexes moved.
+movement mode (walked [+1], ran [+2], or jumped[+3]) and second d6 for number of hexes moved.
 
 
 ## Group Firing and Location Hits*
 
-Use a distinct 1d6 as a "pilot" die and additional 1d6 (of different size/color) 
-for each weapon. Compare the "pilot" die to each weapon die for hits/misses. Do 
+Use a distinct 1d6 as a *pilot* die and additional 1d6 (of different size/color) 
+**for each weapon**. Compare the *pilot* die to each weapon die for hits/misses. Do 
 the same for location hits.
-
-*See [Group Fire - DFAWargaming](http://dfawargaming.com/home/dfa-optional-and-house-rules) for explanation and statistics.*
 
 
 ## Cluster Rolls/Hits*
@@ -49,41 +47,41 @@ Instead of using the Cluster hit table, use the following steps:
 
 *See [Cluster Rolls - DFAWargaming](http://dfawargaming.com/home/dfa-optional-and-house-rules) for explanation and statistics.*
 
+## Revised Range Penalties
 
-## Weapon Range Modifiers*
-
-Reduced penalties for range brackets.
-
-Range | Short | Medium | Long 
------ | ----- | ------ | ----
-Modifier | +0 | +1 | +2
+&nbsp;    | Short | Medium | Long | Extreme
+--------- | :---: | :----: | :--: | :-----:
+**Range** | +0    | +1     | +2   | +3 
 
 
-## Modified To Hit Tables
+## Mechwarrior Skill Ratings
 
-### Gunnery Skill 2 
+Higher gunnery skills for all Mechwarriors for faster game play. Piloting remains at 4 for average PSRs and skidding modifiers.
 
-Move | Short | Med | Long
----- | ----- | --- | ---- 
-Stand (0) | 2 | 3 | 4
-Walk (+1) | 3 | 4 | 5
-Run (+2)  | 4 | 5 | 6
-Jump (+3) | 5 | 6 | 7
+&nbsp; | Gunnery | Piloting
+------ | :-----: | :------:
+Regular | 3 | 4
+Veteran | 2 | 4
 
-### Gunnery Skill 3 
 
-Move | Short | Med | Long
----- | ----- | --- | ---- 
-Stand (0) | 3 | 4 | 5
-Walk (+1) | 4 | 5 | 6
-Run (+2)  | 5 | 6 | 7
-Jump (+3) | 6 | 7 | 8
+## Adjusted To Hit Table (Gunnery Skill 2 and 3) 
 
-### Gunnery Skill 4
+A reference table for gunnery skills of both 2 and 3 Mechwarriors.
 
-Move | Short | Med | Long
----- | ----- | --- | ---- 
-Stand (0) | 4 | 5 | 9
-Walk (+1) | 5 | 6 | 10
-Run (+2)  | 6 | 7 | 11
-Jump (+3) | 7 | 8 | 12
+Gunnery 2 | &nbsp; | &nbsp; | &nbsp; | &nbsp; 
+--------- | :-: | :-: | :-: | :-: 
+**Move**  | **Short** | **Medium** | **Long** | **Extreme**
+Stand (0) | 2 | 3 | 4 | 5 
+Walk (+1) | 3 | 4 | 5 | 6 
+Run (+2)  | 4 | 5 | 6 | 7 
+Jump (+3) | 5 | 6 | 7 | 8 
+
+<br>
+
+Gunnery 3 | &nbsp; | &nbsp; | &nbsp; | &nbsp;
+--------- | :-: | :-: | :-: | :-: 
+**Move**  | **Short** | **Medium** | **Long** | **Extreme**
+Stand (0) | 3 | 4 | 5 | 6
+Walk (+1) | 4 | 5 | 6 | 7
+Run (+2)  | 5 | 6 | 7 | 8
+Jump (+3) | 6 | 7 | 8 | 9
